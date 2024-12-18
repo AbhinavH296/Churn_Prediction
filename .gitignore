@@ -1,0 +1,21 @@
+# Ignore the entire virtual environment directory
+myenv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files that may appear in some environments
+Thumbs.db
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore large files (e.g., .pyd, .dll files)
+*.pyd
+*.dll
+
+# Ignore any other specific files or directories that may be large or unneeded
