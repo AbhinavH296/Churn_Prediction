@@ -1,0 +1,13 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+imblearn
+xgboost
+catboost
+lightgbm
+python-multipart
+streamlit
